@@ -164,5 +164,14 @@ This end-to-end project demonstrates your ability to:
 
 Perfect for showcasing in your portfolio, resume, and interviews.
 
+---
+
+## 🙌 Conclusion
+This project reflects a complete analytics pipeline—cleaning, modeling, SQL-based transformations, visualization, and generating actionable insights. It demonstrates strong **data analytics, BI development, and business storytelling** skills applicable in real-world aviation analytics.
+
+---
+
+## 📬 Contact
+If you want to collaborate or have questions, feel free to connect!  
+**LinkedIn:** https://www.linkedin.com/in/shreerajsingh-c-chouhan-098820215/
 Author: Shreerajsingh Chouhan
-Linkedin: https://www.linkedin.com/in/shreerajsingh-c-chouhan-098820215/
